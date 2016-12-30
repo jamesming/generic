@@ -1,0 +1,5 @@
+webpack-dev-server --content-base public --inline --hot
+
+live-server
+
+webpack --watch
